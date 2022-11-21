@@ -1,0 +1,6 @@
+pandas
+pylint
+pytest
+black
+click
+Flask
